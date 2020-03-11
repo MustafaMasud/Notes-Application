@@ -1,0 +1,8 @@
+Please run the code through the terminal.
+Input "node app.js --help" to list all commands that are acceptable in this application. 
+For each command you must meet requirements e.x for the add command we have: node app.js add --title="title" --body="body"
+This will create a note with title: "title" and body: "body".
+The remove option will take title as an arugment to remove a note with matching title.
+The read option will take title as an arugment to read a note with matching title.
+The list option will take no arugments amd display all notes.
+
